@@ -1,6 +1,7 @@
 package eclipseGit;
 
-// Comentarrios
+// Comentarios
+// Más comentarios
 public class Main {
 
 	public static void main(String[] args) {
